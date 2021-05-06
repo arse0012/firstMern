@@ -1,0 +1,4 @@
+{
+"mongoURI":
+    "mongodb+srv://arsenMern:arsenMern123@firstmerncluster.54dq7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
